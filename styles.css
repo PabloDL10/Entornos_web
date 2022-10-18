@@ -2,7 +2,7 @@
     display: flex;
 }
 .item{
-    list-style: none;
+    list-style: circle;
     border: 1px solid black;
     padding: 10px;
     margin: 10px;
@@ -10,9 +10,9 @@
 
 }
 .item a{
-    text-decoration: none;
+    text-decoration: chocolate;
     text-transform: uppercase;
 }
 .item:hover{
-    background-color: lightcyan;
+    background-color: rgb(0, 217, 255);
 }
